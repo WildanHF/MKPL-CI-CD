@@ -5,7 +5,7 @@ public class Counter {
 	private int count;
 	
 	public Counter() {
-		this.reset();
+		this.resets();
 	}
 		
 	public void reset() {
